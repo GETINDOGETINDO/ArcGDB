@@ -4,5 +4,5 @@ ArcGDB.zip:
   
 ArcGDB Setup.zip:
   ArcGDB MSI Setup
-  version 1.01.0007 (2019/10/04)
+  version 1.01.0010 (2019/10/25)
   
